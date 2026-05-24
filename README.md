@@ -15,7 +15,7 @@ Git
 🛠️ Installation
 Clone the repository:
 
-git clone https://github.com/manikan2848y/Plant_disease_new.git
+git clone https://github.com/ASKumar07/Plant_Disease-Detection.git
 cd Plant_disease_new
 Install dependencies:
 
