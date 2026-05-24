@@ -73,7 +73,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 📧 Contact
 For questions or feedback, reach out to:
 
-Name: [Sujith Kumar]
+Name: [Sujith Kumar Aakaram]
 GitHub: [https://github.com/ASKumar07/Plant-Disease-Detection-Using-AI]
-Email: [aakramsujithkumar777@gmail.com]
+Email: [aakaramsujithkumar777@gmail.com]
 Feel free to copy-paste this into your README file and customize further as needed! Let me know if you'd like to adjust anything. 😊
